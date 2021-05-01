@@ -5,7 +5,7 @@ database/CMS. Cloud functions/API are written in JavaScript.
 
 
 
-FUNCTIONAL REQUIRMENTS
+FUNCTIONAL REQUIRMENTS 
 F1: The system shall allow new users to register to the Application.
 F2: The system shall allow existing users to login using valid credentials.
 F3: The system shall allow the user to create / edit Notes.
